@@ -34,7 +34,7 @@
 - [Authored Software Engineering Courses](#authored-software-engineering-courses)
   - Modern JavaScript (ES6+): Fundamentals to Advanced Concepts
   - Data Structures & Algorithms: Python, Modern JavaScript (ES6+), and C++: Foundations for Problem Solving and Technical Interviews - LeetCode & DSA Patterns
-  - Fundamentals of React Native with Hooks & Industry Best Practices
+  - Fundamentals & Industry Best Practices of React Native with Hooks
   - Full-Stack AI Software Engineer Roadmap
   - AWS Roadmap + Technical Interview
 
@@ -106,7 +106,7 @@ Startup Founder [@Spotnack](https://spotnack.com/):
 
 - [Data Structures & Algorithms: Python, Modern JavaScript (ES6+), and C++: Foundations for Problem Solving and Technical Interviews - LeetCode & DSA Patterns](https://github.com/camponogaraviera/ds-and-algo)
 
-- [Fundamentals of React Native with Hooks & Industry Best Practices](https://github.com/camponogaraviera/react-native)
+- [Fundamentals & Industry Best Practices of React Native with Hooks](https://github.com/camponogaraviera/react-native)
 
 - [Full-Stack AI Software Engineer Roadmap](https://github.com/camponogaraviera/full-stack-ai-sw-roadmap)
 
