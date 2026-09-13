@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman
+
+# Jekyll settings
+lang: en-US
+title: Lucas Camponogara Viera
+description: Senior Full-Stack ML Engineer (PhD)
+paginate: 1
+show_downloads: False
+google_analytics: 
+remote_theme: lewismiddleton/cayman-dark
+
+# About/contact
+author: 
+  name: Lucas Camponogara Viera
+  url: https://www.linkedin.com/in/camponogaraviera
+  
