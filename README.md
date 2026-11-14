@@ -50,7 +50,7 @@
     - Vanilla NumPy MLP with SGD and Backpropagation 
   - RL Algorithms
     - RL DDPG Agent with Custom Gym-compliant Environment and Industry Best Practices
-  - Production-Grade Applications
+  - AI-Powered Applications
     - Social Eats: Full-Stack Social Food Discovery Mobile App with 3D Interactivity, RAG-Based Recommendations, and On-Device LLM Inference
     - Chat Horizon: Full-Stack LLM Chat Application with In-Browser Inference
     - Designer: AI Web Platform for 3D World Creation via Natural Language Prompts
@@ -144,7 +144,7 @@ Startup Founder [@Spotnack](https://www.instagram.com/spotnack/):
 - [RL DDPG Agent with Custom Gym-compliant Environment and Industry Best Practices](https://github.com/camponogaraviera/rl-ddpg)
   - **Tech Stack**: NumPy, TensorFlow, Gymnasium, and scQubits.
 
-## Production-Grade Applications
+## AI-Powered Applications
 
 (Private)
 
