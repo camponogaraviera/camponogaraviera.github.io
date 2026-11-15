@@ -148,7 +148,7 @@ Startup Founder [@Spotnack](https://www.instagram.com/spotnack/):
 
 (Private)
 
-- [Social Eats: Full-Stack Food Discovery Mobile App with 3D Interactivity, RAG-Based Recommendations, and On-Device LLM Inference](https://github.com/camponogaraviera/social-eats) 
+- [Social Eats: Full-Stack Food Discovery Mobile App with RAG-Based Recommendations and On-Device LLM Inference](https://github.com/camponogaraviera/social-eats) 
   - **Tech Stack**: Modern JavaScript (ES6+), TypeScript, Jest, fast-check, LiteRT-LM, React Native, React Three Fiber, React Three Drei, Node.js, Express.js, DynamoDB, Docker, GitHub Actions, and AWS.
   
 <p align="center">
