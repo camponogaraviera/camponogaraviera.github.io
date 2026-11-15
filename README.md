@@ -51,7 +51,7 @@
   - RL Algorithms
     - RL DDPG Agent with Custom Gym-compliant Environment and Industry Best Practices
   - AI-Powered Applications
-    - Social Eats: Full-Stack Social Food Discovery Mobile App with RAG-Based Recommendations and On-Device LLM Inference
+    - Social Eats: Full-Stack Food Discovery Mobile App with RAG-Based Recommendations and On-Device LLM Inference
     - Chat Horizon: Full-Stack LLM Chat Application with In-Browser Inference
     - Designer: AI Web Platform for 3D World Creation via Natural Language Prompts
     
