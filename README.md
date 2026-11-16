@@ -61,13 +61,13 @@
 
 ## Production AI Systems 
 
-Startup Founder [@QuCAI-Lab](https://www.qucailab.company/):
+Startup Founder [@QuCAI-Lab](https://github.com/qucai-lab):
 
 - [Quiver Compiler: Graph Reinforcement Learning-based Quantum Compiler](https://www.qucailab.company/technology)
 
 ## Production AI-Powered Applications
 
-Startup Founder [@QuCAI-Lab](https://www.qucailab.company/):
+Startup Founder [@QuCAI-Lab](https://github.com/qucai-lab):
 
 - [QuCAI-Lab Web Platform: Quantum Compilation as a Service](https://www.qucailab.company/)
 
@@ -84,7 +84,11 @@ Startup Founder [@QuCAI-Lab](https://www.qucailab.company/):
 Startup Founder [@Spotnack](https://www.instagram.com/spotnack/):
 
 - [Spotnack: 3D Booking Platform](https://github.com/spotnack)
- 
+
+<p align="center">
+  <img src="./assets/spotnack/spotnack.png" width="45%" />
+</p>
+
 ---
 
 # Authored Software Engineering Courses 
